@@ -1,0 +1,1 @@
+var e=`/assets/ads-CwnKNL44.jpg`;export{e as t};
